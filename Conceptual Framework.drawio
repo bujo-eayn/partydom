@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-09T12:07:38.284Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="54BWxShhOhDPC93wyB48" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-14T08:57:34.616Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="na1fANgKZSHvIvJGIkQ4" version="16.2.4" type="github">
   <diagram id="sZcYdEvJaQE7oXlkHG2B" name="Page-1">
     <mxGraphModel dx="1278" dy="1685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -452,6 +452,17 @@
         <mxCell id="gpkDMAW4IRPUD0dpXp9G-6" value="c) send invitation" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gpkDMAW4IRPUD0dpXp9G-5" vertex="1" connectable="0">
           <mxGeometry x="0.1373" y="8" relative="1" as="geometry">
             <mxPoint x="46" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4D1gApCho0XqrjoHpgbj-1" value="" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=0.003;entryY=0.952;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.001;exitY=0.955;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="285.27503" y="431.4000000000001" as="sourcePoint" />
+            <mxPoint x="730.82152" y="433.05999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4D1gApCho0XqrjoHpgbj-2" value="d) feedback" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4D1gApCho0XqrjoHpgbj-1">
+          <mxGeometry x="-0.0854" y="-8" relative="1" as="geometry">
+            <mxPoint x="27" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
